@@ -33,8 +33,8 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -190,7 +190,7 @@
                     <rect mask="url(#languages-bar)" x="194.85649566123269" y="0" width="154.2477908762408" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="349.1042865374735" y="0" width="33.23646210923418" height="8" fill="#4F5D95"/>
                     <rect mask="url(#languages-bar)" x="382.34074864670765" y="0" width="30.107894370814872" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="412.44864301752256" y="0" width="27.107289753582997" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="412.44864301752256" y="0" width="27.107289753582997" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="439.5559327711056" y="0" width="19.344628983590177" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="458.90056175469573" y="0" width="1.06679459194014" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="459.9673563466359" y="0" width="0.03264365336414137" height="8" fill="#d12127"/>
@@ -222,7 +222,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -265,7 +265,7 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Wave</div>
+                                    <div class="name">Leaves</div>
                                     <div class="artist">[ocean jams]</div>
                                 </div>
                             </div>
@@ -279,15 +279,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Willow Trees</div>
-                                    <div class="artist">Guustavv</div>
+                                    <div class="name">Still Trying</div>
+                                    <div class="artist">Dylan Sitts</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Purple Clouds</div>
-                                    <div class="artist">Sarah, the Illstrumentalist</div>
+                                    <div class="name">Wave</div>
+                                    <div class="artist">[ocean jams]</div>
                                 </div>
                             </div>
                         </div>
@@ -2284,6 +2284,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
